@@ -1,0 +1,18 @@
+{
+    "name": "intel/capi-dev-travel",
+    "description": "NameSpace y autoload",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models"
+        }
+    },
+    "authors": [
+        {
+            "name": "bryan",
+            "email": "morocho.12chacha@gmail.com"
+        }
+    ],
+    "require": {}
+}
